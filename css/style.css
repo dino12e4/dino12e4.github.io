@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css2?family=Fruktur&display=swap);
+body{
+
+    box-sizing: border-box;
+    
+    font-family: 'Fruktur', cursive;
+font-family: 'Poppins', sans-serif;
+
+}
+img{
+    max-width: 100%;
+    
+}
+div{
+    text-align: center;
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+padding-top: 30vh;
+font-size: 42px;
+font-weight: bold;
+font-style: inherit;
+}
+
+h3{
+    font-weight: 200;
+}
+
+a {
+    background-color: #49beaa; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+  }
